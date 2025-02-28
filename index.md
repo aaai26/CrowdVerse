@@ -2,7 +2,7 @@
 layout: default
 ---
 
-CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehensive Multitask Dataset
+## CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehensive Multitask Dataset
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true)
 
