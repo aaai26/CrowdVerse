@@ -170,6 +170,8 @@ Your evaluation should consider factors such as Accuracy, Fluency, Amount of inf
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Social_Interaction_Detection1.png?raw=true){: .center60 }
 
+<img src="https://github.com/xzh0312/minima/blob/master/imgs/Social_Interaction_Detection1.png?raw=true" alt="pic" style="display: block; margin: 0 auto; max-width: 60%;">
+
 **3.1 Baselines**
 
 The Human Interaction Detection task aims to identify and detect social interaction groups (SIGs), defined as groups emphasizing mutual influence between intentions. This concept originates from psychological research, where it is described as ”behavior attempting to influence or take into account the subjective experiences or intentions of others.” For instance, in classroom settings involving interactions between students and teachers or in sports scenarios where defensive and offensive players interact, a common pattern emerges: when an individual within a group exhibits a particular behavior or intention, other members respond accordingly. Thus, this task involves classifying social interaction groups within a crowd.
