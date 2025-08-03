@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![pic](https://github.com/aaai26/CrowdVerse/blob/master/demo_HD.mp4?raw=true)
+
 ## CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehensive Multitask Dataset
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true)
