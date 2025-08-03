@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![pic](https://github.com/aaai26/CrowdVerse/blob/master/demo_HD.mp4?raw=true)
+<video controls width="100%">
+  <source src="https://github.com/aaai26/CrowdVerse/raw/master/demo_HD.mp4" type="video/mp4">
+</video>
 
 ## CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehensive Multitask Dataset
 
