@@ -6,17 +6,15 @@ layout: default
   <source src="https://github.com/aaai26/CrowdVerse/raw/master/demo_HD.mp4" type="video/mp4">
 </video>
 
-## CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehensive Multitask Dataset
-
-![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true)
+## CrowdVerse: A Bidirectional Reality-Calibrated Benchmark for Crowd Understanding and Simulation
 
 ## Overviews
 
-- To promote the development of crowd understanding tasks, we propose CrowdVerse, the largest real-world crowd dataset to date, which supports a wide range of crowd-related tasks.
+- We propose a bidirectional dataset CrowdVerse, the largest crowd dataset to support the training and evaluation of various crowd-related tasks, establishing the first reference-free realism benchmark for crowd simulation.
   
-- In CrowdVerse, over 1.15 million crowd images have been manually annotated with diverse labels, including crowd locations, trajectories, interaction groups, and textual descriptions, enabling the training and evaluation of diverse crowd-related tasks.
+- We design a novel reference-free evaluation framework for quantifying crowd simulation, validated on CrowdVerse to demonstrate its effectiveness in measuring crowd dynamic behavior realism.
   
-- We report benchmark results on various tasks using CrowdVerse, and extensive experiments demonstrate that the dataset's scale and diversity introduce heightened challenges across multiple tasks, providing ample opportunities for future research.
+- In CrowdVerse, over 1.15 million crowd images are manually annotated with diverse labels, including crowd locations, trajectories, interaction groups, and textual descriptions. We also report benchmark results on various crowd-understanding tasks.
   
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/advantage.png?raw=true)
